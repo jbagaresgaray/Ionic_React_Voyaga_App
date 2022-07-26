@@ -1,0 +1,7 @@
+{
+  "name": "ionic_react_voyaga",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
